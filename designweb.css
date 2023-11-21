@@ -4,7 +4,7 @@
 }
 body{
 	font-family: calibri light; 
-}
+ }
 
 div{
  	box-sizing: border-box;
@@ -17,14 +17,14 @@ div{
 	height: 100%;
 	display: flex;
 	gap: 10px;
-	border-radius: 15px; 
+	border-radius : 15px; 
 }
 .countainer1{
 	background-color: #B0A695;
 	width: 20%;
 	height: 2650px;
 	align-items: center;
-	text-align: center;
+	 text-align: center;
 
 }
 
@@ -33,9 +33,9 @@ div{
 }
 
 .countainer2 .enjoy{
-	width: 100%;
+ 	width: 100%;
 	height: 300px;
-	background-image: url(img/thumbnaill.jpg);
+	background- image: url(img/thumbnaill.jpg);
 	background-size: cover;
 	background-position-y: -200px;
 	display: flex;
@@ -152,7 +152,6 @@ div{
 .countainer5{
 	background-color: #EBE3D5;
 	width: auto;
-	height: 240px;
 	align-items: center;
 	text-align: center;
 	padding-top: 20px;
