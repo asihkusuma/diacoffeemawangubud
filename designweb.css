@@ -4,7 +4,7 @@
 }
 body{
 	font-family: calibri light; 
- }
+  }
 
 div{
  	box-sizing: border-box;
@@ -22,7 +22,7 @@ div{
 .countainer1{
 	background-color: #B0A695;
 	width: 20%;
-	height: 2650px;
+	height: 2600px;
 	align-items: center;
 	 text-align: center;
 
@@ -133,7 +133,7 @@ div{
 .countainer4{
 	background-color: #F3EEEA;
 	width: auto;
-	height: 230px;
+	height: 200px;
 	align-items: center;
 	text-align: center;
 	padding-top: 20px;
@@ -153,6 +153,7 @@ div{
 .countainer5{
 	background-color: #EBE3D5;
 	width: auto;
+	height: 250px;
 	align-items: center;
 	text-align: center;
 	padding-top: 20px;
