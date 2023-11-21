@@ -21,8 +21,8 @@ div{
 }
 .countainer1{
 	background-color: #B0A695;
-	width: 20%;
-	height: 2600px;
+	width: 20%; 
+	height: 2580px;
 	align-items: center;
 	 text-align: center;
 
@@ -35,7 +35,7 @@ div{
 .countainer2 .enjoy{
  	width: 100%;
 	height: 300px;
-	background- image: url(img/thumbnaill.jpg);
+	background-image: url(img/thumbnaill.jpg);
 	background-size: cover;
 	background-position-y: -200px;
 	display: flex;
