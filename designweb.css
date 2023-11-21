@@ -3,7 +3,7 @@
 	padding: 0px;
 }
 body{
-	font-family: calibri light;
+	font-family: calibri light; 
 }
 
 div{
@@ -152,7 +152,7 @@ div{
 .countainer5{
 	background-color: #EBE3D5;
 	width: auto;
-	height: 280px;
+	height: 240px;
 	align-items: center;
 	text-align: center;
 	padding-top: 20px;
@@ -177,8 +177,8 @@ div{
 	color: #776B5D;
 }
 .fotomenu{
-	width: 180px;
-	height: 180px;
+	width: 170px;
+	height: 170px;
 	border-radius: 20%;
 }
 
